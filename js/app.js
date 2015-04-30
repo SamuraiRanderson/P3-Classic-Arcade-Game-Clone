@@ -16,6 +16,11 @@ var itemSprites = ['images/cup.png', // Array of item sprites //
     'images/shoppingBag.png'];
 
 // Enemies our player must avoid
+function startClick () { // Starts the game //
+    gameOver = false;
+    document.getElementById('startGameScreen').style.display = 'none';
+}
+
 var Enemy = function(x,y) {
     this.x = x; // Sets (x,y) enemy position on canvas //
     this.y = y;
@@ -140,6 +145,7 @@ function GameOver () { // Triggers the Game Over screen //
     document.getElementById('gameOver').style.display = 'block';
 
 }
+
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
 var allEnemies = [];
