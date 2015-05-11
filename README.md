@@ -1,9 +1,9 @@
 frontend-nanodegree-arcade-game / The Kitten Game
 =================================================
 
-[Play Game](http:samurairanderson.github.io.)
-
 ## Game Instructions 
+
+[Click Here](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone)
 
 * Use the arrow keys to move up, down, left and right. 
 
