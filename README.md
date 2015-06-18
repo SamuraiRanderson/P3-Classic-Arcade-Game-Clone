@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game / The Kitten Game
+#The Kitten Game
 =================================================
 
 ## Game Instructions 
