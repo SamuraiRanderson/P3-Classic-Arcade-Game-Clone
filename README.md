@@ -1,9 +1,12 @@
 #The Kitten Game
-=================================================
 
-## Game Instructions 
+### Game Instructions 
 
-[Click Here](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone)
+This was a lot of fun to work on. In this, the third project of Udacity's Front End Web Developer Nanodegree program, I was provided with a game loop engine, and visual assets, with the task to create a video game based off the 1981 iconic video game "Frogger". I used HTML5 Canvas, CSS and JavaScript to build this project. I incorporated custom images, and features, to make the game more unique and express my creativity; creating a more pleasant user experience. 
+
+The instructions on how to play are listed below. [Click Here](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone) if you have a couple of minutes and give it a go!! Good luck & thanks for playing!!
+
+#####_Instructions on how to play_
 
 * Use the arrow keys to move up, down, left and right. 
 
@@ -16,11 +19,3 @@
 * Getting to the water tiles will respawn you to the original staring point.
 
 * Collect 100 points by collecting random items (shopping bag, chocolate bar, pizza, soda or coffee) that spawn on the game canvas.
-
-## Good luck & thanks for playing!!
-
-
-
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
