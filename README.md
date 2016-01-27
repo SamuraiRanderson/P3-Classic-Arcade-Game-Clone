@@ -21,3 +21,5 @@ The instructions on how to play are listed below. [**Click Here**](http://samura
 * Getting to the water tiles will respawn you to the original staring point.
 
 * Collect 100 points by collecting random items (shopping bag, chocolate bar, pizza, soda or coffee) that spawn on the game canvas.
+
+![P3 Game Play](images/gameplay.png)
