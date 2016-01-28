@@ -14,7 +14,7 @@ The instructions on how to play are listed below. [**Click Here**](http://samura
 
 * Colliding with a bug results in the loss of one of your lives.
 
-* Your player/Kitten gets [**NINE**] lives!
+* Your player/Kitten gets *NINE* lives!
 
 * Collect 50 points by crossing the stone tiles & making it to the water without running into a bug.
 
