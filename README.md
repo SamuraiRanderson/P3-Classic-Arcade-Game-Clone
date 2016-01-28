@@ -8,7 +8,7 @@ This was a lot of fun to work on. In this, the third project of Udacity's Front 
 
 The instructions on how to play are listed below. [**Click Here**](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone) if you have a couple of minutes and give it a go!! Good luck & thanks for playing!!
 
-####_Instructions on how to play_:
+####Game Play Instructions:
 
 * Use the arrow keys to move up, down, left and right. 
 
