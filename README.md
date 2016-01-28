@@ -1,6 +1,6 @@
-![P3 Sugar Skull](https://github.com/SamuraiRanderson/P3-Classic-Arcade-Game-Clone/blob/master/images/SugarSkullCat.png)
+#[Classic Arcade Game Clone](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone)
 
-#[The Kitten Game](http://samurairanderson.github.io/P3-Classic-Arcade-Game-Clone)
+![P3 Sugar Skull](https://github.com/SamuraiRanderson/P3-Classic-Arcade-Game-Clone/blob/master/images/SugarSkullCat.png)
 
 ### Game Instructions 
 
