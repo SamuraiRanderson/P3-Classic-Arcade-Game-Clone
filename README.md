@@ -14,12 +14,12 @@ The instructions on how to play are listed below. [**Click Here**](http://samura
 
 * Colliding with a bug results in the loss of one of your lives.
 
-* Your player/Kitten gets NINE lives!
+* Your player/Kitten gets [**NINE**] lives!
 
 * Collect 50 points by crossing the stone tiles & making it to the water without running into a bug.
 
 * Getting to the water tiles will respawn you to the original staring point.
 
-* Collect 100 points by collecting random items (shopping bag, chocolate bar, pizza, soda or coffee) that spawn on the game canvas.
+* Collect 100 points by collecting random items (_e.g._ _shopping bag,_ _chocolate bar,_ _pizza,_ _soda_ _or_ _coffee_) that spawn on the game canvas.
 
 ![P3 Game Play](images/gameplay.png)
